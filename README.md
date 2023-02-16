@@ -1,7 +1,7 @@
 # Communities and Events DevSecOps
 ## Comunidades e eventos DevSecOps
 
-> Uma curadoria de comunidades e eventos relacionados ao universo DevSecOps e DevSecOps para você participar!
+> Uma curadoria de comunidades e eventos relacionados ao universo DevSecOps e AppSec para você participar!
 
 ## Sumário
 
