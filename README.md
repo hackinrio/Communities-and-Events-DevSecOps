@@ -29,7 +29,6 @@
 | OWASP Sao Luis            | https://owasp.org/www-chapter-sao-luis/            | OWASP Chapter |
 | OWASP Sorocaba            | https://owasp.org/www-chapter-sorocaba/            | OWASP Chapter |
 | OWASP Vitoria             | https://owasp.org/www-chapter-vitoria/             | OWASP Chapter |
-| OWASP Uruguay             | https://owasp.org/www-chapter-uruguay/             | OWASP Chapter |
 
 
 
