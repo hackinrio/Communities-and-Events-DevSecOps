@@ -84,6 +84,7 @@
 | Mind the Sec Conference                                     | https://www.mindthesec.com.br/                              |
 | BHack                                                       | https://www.bhack.com.br/                                   |
 | Hacktoberfest                                               | https://hacktoberfest.com/                                  |
+| Cyber Security Summit 2023                                  | https://www.cybersecuritysummit.com.br/                     |
 
 
 ## Comunidades
@@ -191,3 +192,11 @@
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Código Falado](https://www.twitch.tv/codigofalado) | Código Falado é o primeiro Twitch Partner de Live Coding do Brasil! Somos uma comunidade onde todo mundo é Dev JUNIOR. Criaremos projetos ao vivo do zero à publicação, passando por todas as etapas. Programando, aprendendo e errando juntos!    |
+| [Github Brasil](https://www.twitch.tv/githubbrasil) | O GitHub é a maior e mais avançada plataforma de desenvolvimento de softwares do mundo. Onde o mundo cria softwares. | 
+
+## Podcast
+
+| Nome                                                      | Descrição                                                                    |
+| --------------------------------------------              | ---------------------------------------------------------------------------- |
+| [DevSecOps Podcast](https://devsecopspodcast.com.br/)     | O seu podcast sobre Segurança e Tecnologia                                   |
+| [Cyber Morning Call](https://www.tempest.com.br/podcast/) | O Cyber Morning Call é um podcast de cibersegurança produzido pela Tempest com episódios diários, publicados logo pela manhã com aquilo que foi mais relevante nas últimas vinte e quatro horas em termos de novos ataques, vulnerabilidades ou ameaças. |
