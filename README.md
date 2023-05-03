@@ -85,7 +85,7 @@
 | BHack                                                       | https://www.bhack.com.br/                                   |
 | Hacktoberfest                                               | https://hacktoberfest.com/                                  |
 | Cyber Security Summit 2023                                  | https://www.cybersecuritysummit.com.br/                     |
-| Code Island Cloud                                           | https://cloud.codeisland.com.br/                            |
+| Code Island Cloud                                           | https://cloud.codeisland.com.br                             |
 
 
 ## Comunidades
