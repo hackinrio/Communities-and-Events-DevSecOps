@@ -151,7 +151,7 @@
 | Enterprise Security                                                         | https://t.me/enterprisesecurity                                                             | Telegram   |
 | eSecurity – P4P0 sobre TI                                                   | https://t.me/eSecurityBR                                                                    | Telegram   |
 | SecurityCast                                                                | https://t.me/SecCastOficial                                                                 | Telegram   |
-| developersRJ ⛱                                                              | Não aplica                                                                                  | Telegram   |
+| developersRJ ⛱                                                             | https://t.me/developersRJ                                                                   | Telegram   |
 | LINUXtips – Containers e DevOps                                             | https://t.me/canalLINUXtips                                                                 | Telegram   |
 | Segurança da Informação                                                     | A verificar                                                                                 | Telegram   |
 | DevOps Bootcamp                                                             | A verificar                                                                                 | Telegram   |
@@ -193,7 +193,7 @@
 | Nome                                         | Descrição                                                                    |
 | -------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Código Falado](https://www.twitch.tv/codigofalado) | Código Falado é o primeiro Twitch Partner de Live Coding do Brasil! Somos uma comunidade onde todo mundo é Dev JUNIOR. Criaremos projetos ao vivo do zero à publicação, passando por todas as etapas. Programando, aprendendo e errando juntos!    |
-| [Github Brasil](https://www.twitch.tv/githubbrasil) | O GitHub é a maior e mais avançada plataforma de desenvolvimento de softwares do mundo. Onde o mundo cria softwares. | 
+| [Github Brasil](https://www.twitch.tv/githubbrasil) | O GitHub é a maior e mais avançada plataforma de desenvolvimento de softwares do mundo. Onde o mundo cria softwares. |
 
 ## Podcast
 
